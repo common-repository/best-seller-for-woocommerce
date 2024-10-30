@@ -1,0 +1,537 @@
+# Copyright (C) 2023 GrandPlugins
+# This file is distributed under the same license as the Best Seller for WooCommerce plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Best Seller for WooCommerce 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/gpls-wobtslr-woo-best-seller\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-03-18T10:41:26+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: best-seller-for-woocommerce\n"
+
+#. Plugin Name of the plugin
+msgid "Best Seller for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://grandplugins.com/product/woo-best-seller/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Add Best Seller Badge to WooCommerce"
+msgstr ""
+
+#. Author of the plugin
+msgid "GrandPlugins"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://grandplugins.com"
+msgstr ""
+
+#. translators: %s Best Sellers Products Shortcode Title.
+#: includes/BestSellerBadge.php:397
+#: includes/BestSellerShortcodes.php:201
+msgid "%s"
+msgstr ""
+
+#: includes/BestSellerProduct.php:77
+msgid "BestSeller [GrandPlugins]"
+msgstr ""
+
+#: includes/BestSellerProduct.php:78
+msgid "Show best seller badge"
+msgstr ""
+
+#: includes/BestSellerShortcodes.php:118
+#: includes/Templates/pages/main-settings-shortcodes-template.php:50
+msgid "Best Sellers"
+msgstr ""
+
+#: includes/Pages/SettingsPage.php:55
+msgid "Settings"
+msgstr ""
+
+#: includes/Pages/SettingsPage.php:66
+#: includes/Settings/Fields/main-settings-fields.php:130
+msgid "Best Seller"
+msgstr ""
+
+#: includes/Pages/SettingsPage.php:67
+msgid "Best Seller [GrandPlugins]"
+msgstr ""
+
+#: includes/Pages/SettingsPage.php:75
+msgid "General"
+msgstr ""
+
+#: includes/Pages/SettingsPage.php:82
+msgid "Badge"
+msgstr ""
+
+#: includes/Pages/SettingsPage.php:87
+msgid "Shortcodes"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:16
+msgid "Max Best Seller Badges"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:17
+msgid "Maximum product rank to display best seller badge."
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:25
+msgid "Max Best Sellers Products"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:26
+msgid "Maximum limit to consider a product as a best seller [ for best seller products listings ]."
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:34
+msgid "Max Best Sellers Categories"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:35
+msgid "Maximum limit to consider category as a best seller. [ for best seller categories listings ]"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:50
+msgid "Enable"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:51
+msgid "Enable Best Seller Badge"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:56
+#: includes/Settings/Fields/main-settings-fields.php:270
+msgid "Position"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:57
+msgid "Best Seller Badge Side"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:61
+#: includes/Settings/Fields/main-settings-fields.php:275
+msgid "Top Left"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:62
+#: includes/Settings/Fields/main-settings-fields.php:276
+msgid "Top Center"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:63
+#: includes/Settings/Fields/main-settings-fields.php:277
+msgid "Top Right"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:64
+#: includes/Settings/Fields/main-settings-fields.php:278
+msgid "Bottom Left"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:65
+#: includes/Settings/Fields/main-settings-fields.php:279
+msgid "Bottom Center"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:66
+#: includes/Settings/Fields/main-settings-fields.php:280
+msgid "Bottom Right"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:71
+#: includes/Settings/Fields/main-settings-fields.php:288
+msgid "Horizontal Margin"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:72
+#: includes/Settings/Fields/main-settings-fields.php:289
+msgid "Badge horizontal margin based on side"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:81
+#: includes/Settings/Fields/main-settings-fields.php:299
+msgid "Vertical Margin"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:82
+#: includes/Settings/Fields/main-settings-fields.php:300
+msgid "Badge vertical margin based on side"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:91
+msgid "Angle"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:92
+msgid "Badge rotation angle"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:101
+msgid "Badge Type"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:102
+msgid "Badge Type: Text or Icon"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:118
+msgid "Best Seller Category"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:119
+msgid "Show a best sellers in category link when hover on the best seller badge ( same as amazon best seller badge )"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:127
+#: includes/Settings/Fields/main-settings-fields.php:128
+msgid "Badge Text"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:138
+#: includes/Settings/Fields/main-settings-fields.php:310
+#: includes/Settings/Fields/main-settings-fields.php:416
+msgid "Font Size"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:139
+msgid "Badge Text fontsize"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:149
+#: includes/Settings/Fields/main-settings-fields.php:362
+#: includes/Settings/Fields/main-settings-fields.php:396
+msgid "Color"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:150
+#: includes/Settings/Fields/main-settings-fields.php:363
+#: includes/Settings/Fields/main-settings-fields.php:397
+msgid "Badge Text Color"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:160
+#: includes/Settings/Fields/main-settings-fields.php:372
+#: includes/Settings/Fields/main-settings-fields.php:406
+msgid "Background"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:161
+#: includes/Settings/Fields/main-settings-fields.php:373
+#: includes/Settings/Fields/main-settings-fields.php:407
+msgid "Badge Background Color"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:172
+msgid "Text Weight"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:173
+#: includes/Settings/Fields/main-settings-fields.php:321
+#: includes/Settings/Fields/main-settings-fields.php:427
+msgid "Badge Text Font Weight"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:178
+#: includes/Settings/Fields/main-settings-fields.php:193
+#: includes/Settings/Fields/main-settings-fields.php:326
+#: includes/Settings/Fields/main-settings-fields.php:340
+#: includes/Settings/Fields/main-settings-fields.php:432
+msgid "normal"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:179
+#: includes/Settings/Fields/main-settings-fields.php:327
+#: includes/Settings/Fields/main-settings-fields.php:433
+msgid "bold"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:187
+#: includes/Settings/Fields/main-settings-fields.php:334
+msgid "Text Style"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:188
+#: includes/Settings/Fields/main-settings-fields.php:335
+msgid "Badge Text Style"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:194
+#: includes/Settings/Fields/main-settings-fields.php:341
+msgid "italic"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:202
+msgid "Icon"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:203
+msgid "Best Seller Badge Icon"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:210
+msgid "Icon 1"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:211
+msgid "Icon 2"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:212
+msgid "Icon 3"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:213
+msgid "Icon 4"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:214
+msgid "Icon 5"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:215
+msgid "Icon 6"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:216
+msgid "Icon 7"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:217
+msgid "Icon 8"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:218
+msgid "Icon 9"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:227
+msgid "Width"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:228
+msgid "Best Seller Badge Width"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:241
+msgid "Height"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:242
+msgid "Best Seller Badge Height"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:259
+msgid "Enable in Loop"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:260
+msgid "Enable sales badge in loop pages"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:271
+msgid "Badge Side"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:311
+#: includes/Settings/Fields/main-settings-fields.php:417
+msgid "Badge sales count fontsize"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:320
+#: includes/Settings/Fields/main-settings-fields.php:426
+msgid "Font Weight"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:348
+msgid "Style in loop"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:349
+msgid "Sales Badge Style in loop pages"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:352
+msgid "Horizontal"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:353
+msgid "Vertical"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:382
+msgid "Enable in single"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:383
+msgid "Enable sales badge in single product page"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:440
+msgid "Enable in loop"
+msgstr ""
+
+#: includes/Settings/Fields/main-settings-fields.php:441
+msgid "Show product best rank in category badge in loop pages."
+msgstr ""
+
+#: includes/Settings/MainSettings.php:51
+msgid "Available Icons"
+msgstr ""
+
+#: includes/Settings/MainSettings.php:57
+msgid "Default icons"
+msgstr ""
+
+#: includes/Settings/MainSettings.php:68
+msgid "Media icon"
+msgstr ""
+
+#: includes/Templates/pages/main-settings-badge-template.php:14
+msgid "Best Seller Badge"
+msgstr ""
+
+#: includes/Templates/pages/main-settings-badge-template.php:15
+#: includes/Templates/pages/main-settings-shortcodes-template.php:125
+msgid "Total Sales Badge"
+msgstr ""
+
+#: includes/Templates/pages/main-settings-badge-template.php:16
+msgid "Best Seller rank in Category Badge"
+msgstr ""
+
+#: includes/Templates/pages/main-settings-shortcodes-template.php:14
+msgid "Listing"
+msgstr ""
+
+#: includes/Templates/pages/main-settings-shortcodes-template.php:19
+msgid "General Best Seller Products"
+msgstr ""
+
+#: includes/Templates/pages/main-settings-shortcodes-template.php:20
+msgid "best seller products based on total sales"
+msgstr ""
+
+#: includes/Templates/pages/main-settings-shortcodes-template.php:25
+msgid "attributes"
+msgstr ""
+
+#: includes/Templates/pages/main-settings-shortcodes-template.php:31
+msgid "Attribute"
+msgstr ""
+
+#: includes/Templates/pages/main-settings-shortcodes-template.php:32
+msgid "Description"
+msgstr ""
+
+#: includes/Templates/pages/main-settings-shortcodes-template.php:33
+msgid "Status"
+msgstr ""
+
+#: includes/Templates/pages/main-settings-shortcodes-template.php:34
+msgid "Default value"
+msgstr ""
+
+#: includes/Templates/pages/main-settings-shortcodes-template.php:35
+msgid "Possible values"
+msgstr ""
+
+#: includes/Templates/pages/main-settings-shortcodes-template.php:40
+msgid "limit"
+msgstr ""
+
+#: includes/Templates/pages/main-settings-shortcodes-template.php:41
+msgid "The max products to list"
+msgstr ""
+
+#: includes/Templates/pages/main-settings-shortcodes-template.php:42
+#: includes/Templates/pages/main-settings-shortcodes-template.php:49
+#: includes/Templates/pages/main-settings-shortcodes-template.php:56
+msgid "Optional"
+msgstr ""
+
+#: includes/Templates/pages/main-settings-shortcodes-template.php:43
+msgid "30"
+msgstr ""
+
+#: includes/Templates/pages/main-settings-shortcodes-template.php:47
+msgid "title"
+msgstr ""
+
+#: includes/Templates/pages/main-settings-shortcodes-template.php:48
+msgid "The listing title"
+msgstr ""
+
+#: includes/Templates/pages/main-settings-shortcodes-template.php:54
+msgid "title_tag"
+msgstr ""
+
+#: includes/Templates/pages/main-settings-shortcodes-template.php:55
+msgid "The title tag"
+msgstr ""
+
+#: includes/Templates/pages/main-settings-shortcodes-template.php:57
+msgid "h3"
+msgstr ""
+
+#: includes/Templates/pages/main-settings-shortcodes-template.php:58
+msgid "Title tags available: h1 | h2 | h3 | h4 | h5 | span | p"
+msgstr ""
+
+#: includes/Templates/pages/main-settings-shortcodes-template.php:67
+msgid "Best Seller Products in a Category"
+msgstr ""
+
+#: includes/Templates/pages/main-settings-shortcodes-template.php:73
+msgid "List Best Seller Products in all best seller categories"
+msgstr ""
+
+#: includes/Templates/pages/main-settings-shortcodes-template.php:80
+msgid "Widgets"
+msgstr ""
+
+#: includes/Templates/pages/main-settings-shortcodes-template.php:85
+msgid "Best Seller Categories widget"
+msgstr ""
+
+#: includes/Templates/pages/main-settings-shortcodes-template.php:92
+msgid "Badges"
+msgstr ""
+
+#: includes/Templates/pages/main-settings-shortcodes-template.php:98
+msgid "Text Badge"
+msgstr ""
+
+#: includes/Templates/pages/main-settings-shortcodes-template.php:107
+msgid "Icon Badge"
+msgstr ""
+
+#: includes/Templates/pages/main-settings-shortcodes-template.php:116
+msgid "Product rank in categories Badge"
+msgstr ""
+
+#: includes/Templates/pages/main-settings-shortcodes-template.php:134
+msgid "Sliders"
+msgstr ""
+
+#: includes/Templates/pages/main-settings-shortcodes-template.php:139
+msgid "General Best Seller Products Slider"
+msgstr ""
+
+#: includes/Templates/pages/main-settings-shortcodes-template.php:145
+msgid "Best Seller Products in a Category Slider"
+msgstr ""
+
+#: includes/Templates/pages/main-settings-shortcodes-template.php:152
+msgid "Best Seller Products in best seller categories sliders"
+msgstr ""
